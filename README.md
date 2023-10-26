@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   [[rust](https://hbche.github.io/my-website/blog/tags/rust)]
 
   <div style="display: flex;">
-    <img style="flex-grow:1;" align="center" src="https://github-readme-stats.vercel.app/api?username=narukara&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
-    <img style="flex-grow:1;" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukara&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+    <img style="flex-grow:1;" align="center" src="https://github-readme-stats.vercel.app/api?username=hbche&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
+    <img style="flex-grow:1;" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbche&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
   </div>
