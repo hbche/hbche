@@ -31,4 +31,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   [[rust](https://hbche.github.io/my-website/blog/tags/rust)]
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=narukara&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukara&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+
+  <div style="display: flex;">
+    <img style="flex-grow:1;" align="center" src="https://github-readme-stats.vercel.app/api?username=narukara&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
+    <img style="flex-grow:1;" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukara&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+  </div>
