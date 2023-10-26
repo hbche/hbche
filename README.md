@@ -35,7 +35,7 @@ Welcome, You are my [[Visitor Count](https://profile-counter.glitch.me/all-smile
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hbche&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbche&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hbche&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbche&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbche&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
 
 
 🔥 My projects:
