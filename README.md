@@ -1,4 +1,7 @@
-<h1 align="center">欢迎来到小车的GitHub主页👋</h1>
+<!--<h1 align="center">欢迎来到小车的GitHub主页👋</h1>-->
+
+
+About me
 
 <!--
 Here are some ideas to get you started:
@@ -28,18 +31,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   [[rust](https://hbche.github.io/my-website/blog/tags/rust)]
-
-
-Welcome, You are my [[Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://hbche.github.io/hbcheBlog/) visitor, Thank You!🎉🎉
-<!--
-<div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hbche&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
--->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbche&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbche&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
-
-
-🔥 My projects:
------------------------
-[个人博客](https://hbche.github.io/my-website/)
-
-<br/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=narukara&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukara&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
