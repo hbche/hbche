@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   [[rust](https://hbche.github.io/my-website/blog/tags/rust)]
+  [[python](https://hbche.github.io/my-website/blog/tags/python)]
 
   <div style="display: flex;">
     <img style="flex-grow:1;" align="center" src="https://github-readme-stats.vercel.app/api?username=hbche&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
